@@ -1,0 +1,4 @@
+jemdoc / jemdoc-cvx by Jacob Mattingley and contributors.
+https://github.com/cvxgrp/jemdoc-cvx
+
+License texts: LICENSE and GPL-3.0.txt.
